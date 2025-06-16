@@ -60,7 +60,7 @@ export const recipes: Recipe[] = [
       "Mixer la soupe jusqu'à obtenir une consistance lisse.",
       "Assaisonner avec sel et poivre, et ajouter la crème fraîche si désirée.",
     ],
-    imageUrl: "/images/recipes/soupe-carottes.webp",
+    imageUrl: "/images/recipes/soupe-carottes.jpg",
     nutritionFacts: {
       calories: 180,
       protein: 3,
@@ -206,7 +206,7 @@ export const recipes: Recipe[] = [
       "Ajouter les pâtes et cuire selon le temps indiqué sur l'emballage.",
       "Avant de servir, ajouter le persil haché et le jus de citron.",
     ],
-    imageUrl: "/images/recipes/vegetable-chorba.jpg",
+    imageUrl: "/images/recipes/vegetable-chorba.webp",
     nutritionFacts: {
       calories: 220,
       protein: 6,
@@ -528,7 +528,7 @@ export const recipes: Recipe[] = [
       "Retirer du feu et laisser reposer couvert pendant 5 minutes.",
       "Retirer la feuille de laurier avant de servir.",
     ],
-    imageUrl: "/images/recipes/chicken-vegetable-rice.jpg",
+    imageUrl: "/images/recipes/chicken-vegetable-rice.webp",
     nutritionFacts: {
       calories: 380,
       protein: 25,
